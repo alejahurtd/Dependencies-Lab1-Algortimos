@@ -1,0 +1,19 @@
+{
+	"name": "dependencies-lab1-algortimos",
+	"version": "1.0.0",
+	"description": "laboratorio 1, diseñando con algoritmos ",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "alejandra hurtado",
+	"license": "ISC",
+	"dependencies": {
+		"birthday-calculator": "^1.0.0"
+	},
+	"devDependencies": {
+		"convert-seconds": "^1.0.1",
+		"is-hex-color-code": "^1.0.0",
+		"week": "^0.2.0"
+	}
+}
